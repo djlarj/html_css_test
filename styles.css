@@ -1,3 +1,31 @@
+.column1 {
+    background-color: #003366;
+    float: left;
+    padding: 15px;
+    height: 400px;
+    width: 400px;
+}
+.column2 {
+    background-color: #4f814f;
+    float: left;
+    padding: 15px;
+    height: 400px;
+    width: 400px;
+}
+h1 {
+    text-align: center;
+}
+h2 { 
+    color: #cc99ff;
+    text-align: center;
+}
 p {
-    color: #f00;
+    color: #00ffff;
+    text-align: justify;
+}
+.row {
+    display: table;
+    clear: both;
+    margin-left: auto;
+    margin-right: auto;
 }
